@@ -1,0 +1,59 @@
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    background-image: url(https://funerariasantacasa24h.com.br/wp-content/uploads/2019/07/2019-08-sermao-para-funeral-caixao.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h1{
+    background: #ffba5ae0;
+    color: #f0dcb5;
+    font-size: 3em;
+    text-transform: capitalize;
+    font-style: oblique;
+    text-align: center;
+    letter-spacing: 7px;
+    text-shadow: 3px 3px 2px #3d352d8c;
+    padding: 15px;
+    border-radius: 100px;
+}
+
+h2{
+    background: #ad8d5cd8;
+    color: #644207;
+    font-size: 2em;
+    text-align: center;
+    margin-right: 250px;
+    margin-left: 250px;
+    border-radius: 10px;
+}
+
+p{
+    background-color: #56573d91;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #d6bf8c;
+    text-shadow: 2px 2px 3px#1b1a1a;
+    text-align: justify;
+    padding: 50px;
+    border-radius: 30px;
+}
+
+main{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: #c99f4b8c;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 1.2em;
+    border-radius: 100px;
+}
+
